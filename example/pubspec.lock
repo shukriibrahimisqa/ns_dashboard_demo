@@ -148,11 +148,9 @@ packages:
   ns_widgets_demo:
     dependency: transitive
     description:
-      path: "."
-      ref: main
-      resolved-ref: "0c71dbdef0e779bbcd4673111bb8f02980d4a669"
-      url: "https://github.com/shukriibrahimisqa/ns_widgets_demo"
-    source: git
+      path: "../../ns_widgets_demo"
+      relative: true
+    source: path
     version: "0.0.1"
   path:
     dependency: transitive

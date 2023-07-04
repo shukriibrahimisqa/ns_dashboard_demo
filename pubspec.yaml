@@ -12,9 +12,11 @@ dependencies:
     sdk: flutter
   plugin_platform_interface: ^2.0.2
   ns_widgets_demo:
-    git:
-      url: https://github.com/shukriibrahimisqa/ns_widgets_demo
-      ref: main
+    path: ../ns_widgets_demo
+#  ns_widgets_demo:
+#    git:
+#      url: https://github.com/shukriibrahimisqa/ns_widgets_demo
+#      ref: main
 
 
 dev_dependencies:
